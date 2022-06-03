@@ -1,8 +1,8 @@
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nf-core/tools/blob/master/docs/images/nfcore-tools_logo_light.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/nf-core/tools/blob/master/docs/images/nfcore-tools_logo_dark.png">
-  <img alt="Shows nf-core logo with black font in light color mode and a white font in dark color mode." src="https://github.com/nf-core/tools/blob/master/docs/images/nfcore-tools_logo_dark.png">
-</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/docs/images/nfcore-tools_logo_light.png">
+  <source media="(prefers-color-scheme: light)" srcset="/docs/images/nfcore-tools_logo_dark.png">
+  <img alt="Shows nf-core logo with black font in light color mode and a white font in dark color mode." src="/docs/images/nfcore-tools_logo_dark.png">
+<picture>
 
 [![Python tests](https://github.com/nf-core/tools/workflows/Python%20tests/badge.svg?branch=master&event=push)](https://github.com/nf-core/tools/actions?query=workflow%3A%22Python+tests%22+branch%3Amaster)
 [![codecov](https://codecov.io/gh/nf-core/tools/branch/master/graph/badge.svg)](https://codecov.io/gh/nf-core/tools)
