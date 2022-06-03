@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nf-core/tools/master/docs/images/nfcore-tools_logo_light.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nf-core/tools/master/docs/images/nfcore-tools_logo_dark.png>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nf-core/tools/master/docs/images/nfcore-tools_logo_dark.png">
   <img alt="Shows nf-core logo with black font in light color mode and a white font in dark color mode." src="https://raw.githubusercontent.com/nf-core/tools/master/docs/images/nfcore-tools_logo_dark.png">
 </picture>
 
